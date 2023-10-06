@@ -1,0 +1,31 @@
+body{
+    background-color: #fffceb;
+    width: 100%;
+}
+
+.btn-orange{
+    background-color: #CF5300;
+    color: white;
+}
+
+/* .pix{
+    width: 600px; */
+}
+
+.con{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.align{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin{
+    margin-right: 100px;
+    }
